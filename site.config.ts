@@ -53,7 +53,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
   {
-      title: 'About',
+      title: 'About Us',
       pageId: 'f15ade45507e44548decbfc2d0a8b51a'
   },
   {
