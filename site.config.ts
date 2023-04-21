@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'K/Dace',
+  name: 'KD/Ace',
   domain: 'kdace',
   author: 'Jin',
 
