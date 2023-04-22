@@ -53,6 +53,18 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
   {
+      title: 'League of Legends',
+      pageId: '3014f79a768d47868cc5193b8d6f04ee'
+  },
+    {
+      title: 'Valorant',
+      pageId: '47105ff9208c4b008e7622768ae1f489'
+  },
+  {
+      title: 'Genshin Impact',
+      pageId: '21106f6a61d847e9a7520541d7c9d85c'
+  },
+  {
       title: 'About',
       pageId: 'f15ade45507e44548decbfc2d0a8b51a'
   },
