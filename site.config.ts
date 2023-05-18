@@ -65,6 +65,10 @@ export default siteConfig({
       pageId: '21106f6a61d847e9a7520541d7c9d85c'
   },
   {
+      title: 'Honkai: Star Rail',
+      pageId: '187097f4885f4ecd967972345365ac5f'
+  },
+  {
       title: 'About',
       pageId: 'f15ade45507e44548decbfc2d0a8b51a'
   },
