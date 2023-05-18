@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'ene_0911',
-  github: 'shuu-jin',
+  //github: 'shuu-jin',//
   //linkedin: 'fisch2',//
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
